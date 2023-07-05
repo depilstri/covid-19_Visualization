@@ -1,2 +1,2 @@
 # covid-19_Visualization
-covid 19 Visualitation with Tableu
+covid 19 Visualization with Tableau
